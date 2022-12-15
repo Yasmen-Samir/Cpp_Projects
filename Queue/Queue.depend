@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1623475647 source:c:\users\lenovo\documents\queue\main.cpp
+	<iostream>
+	"Que.h"
+	<cstring>
+
+1623473111 c:\users\lenovo\documents\queue\include\que.h
+
+1623474678 source:c:\users\lenovo\documents\queue\src\que.cpp
+	"Que.h"
+	<iostream>
+

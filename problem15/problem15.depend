@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1640065542 source:c:\users\yasmen\onedrive\documents\codeblocks\problem15\main.cpp
+	<iostream>
+	<unordered_set>
+
+1640065629 source:c:\users\yasmen\onedrive\documents\codeblocks\problem15\problem15.cpp
+	<iostream>
+	<unordered_set>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1640048098 source:c:\users\yasmen\onedrive\documents\codeblocks\algoassignment\main.cpp
+	<iostream>
+	<unordered_map>
+	<unordered_set>
+	<vector>
+	<algorithm>
+

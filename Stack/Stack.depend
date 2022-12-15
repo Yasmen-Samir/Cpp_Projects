@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1623451694 source:c:\users\lenovo\documents\stack\main.cpp
+	<iostream>
+	<cstring>
+	"Stk.h"
+
+1623448343 c:\users\lenovo\documents\stack\include\stk.h
+
+1623456344 source:c:\users\lenovo\documents\stack\src\stk.cpp
+	"Stk.h"
+	<iostream>
+	<cstring>
+
+1623451694 source:c:\users\lenovo\documents\codeblocks\stack\main.cpp
+	<iostream>
+	<cstring>
+	"Stk.h"
+
+1623448343 c:\users\lenovo\documents\codeblocks\stack\include\stk.h
+
+1623456344 source:c:\users\lenovo\documents\codeblocks\stack\src\stk.cpp
+	"Stk.h"
+	<iostream>
+	<cstring>
+

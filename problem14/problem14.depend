@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1640055297 source:c:\users\yasmen\onedrive\documents\codeblocks\problem14\main.cpp
+	<iostream>
+	<unordered_map>
+
+1640065260 source:c:\users\yasmen\onedrive\documents\codeblocks\problem14\problem14.cpp
+	<iostream>
+	<unordered_map>
+
