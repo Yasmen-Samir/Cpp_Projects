@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1609653467 source:c:\users\lenovo\documents\online library 2\main.cpp
+	"User.h"
+	"Book.h"
+	"UserList.h"
+	"BookList.h"
+	<cstring>
+	<iostream>
+	<string>
+
+1608928474 c:\users\lenovo\documents\online library 2\include\user.h
+	<cstring>
+	<iostream>
+	<string>
+
+1608928431 c:\users\lenovo\documents\online library 2\include\book.h
+	<cstring>
+	<iostream>
+	"User.h"
+
+1608928513 c:\users\lenovo\documents\online library 2\include\userlist.h
+	"User.h"
+	<string>
+	<iostream>
+
+1608928455 c:\users\lenovo\documents\online library 2\include\booklist.h
+	<User.h>
+	<Book.h>
+	<iostream>
+	<string>
+	<iostream>
+	<string>
+	<cstring>
+	"User.h"
+	"Book.h"
+
+1608928235 source:c:\users\lenovo\documents\online library 2\src\book.cpp
+	"Book.h"
+	"string.h"
+	<iostream>
+
+1608928268 source:c:\users\lenovo\documents\online library 2\src\booklist.cpp
+	"BookList.h"
+	<string>
+	<iostream>
+
+1608928305 source:c:\users\lenovo\documents\online library 2\src\user.cpp
+	"User.h"
+	<string.h>
+	<iostream>
+
+1609642327 source:c:\users\lenovo\documents\online library 2\src\userlist.cpp
+	"UserList.h"
+	<string>
+
